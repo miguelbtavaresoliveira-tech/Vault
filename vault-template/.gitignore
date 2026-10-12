@@ -1,0 +1,9 @@
+# estado local do Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# o conteúdo de 20-projetos vive nos repositórios de cada projeto (junctions para docs/)
+20-projetos/*
+!20-projetos/.gitkeep
