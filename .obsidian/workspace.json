@@ -172,6 +172,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -181,6 +183,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "55b0d72abc0bc959",
-  "lastOpenFiles": []
+  "active": "6a15be8231d736bb",
+  "lastOpenFiles": [
+    "vault-template/20-projetos/restaurant-api-typescript/adr/0001-definicao-da-arquitetura-inicial.md",
+    "vault-template/20-projetos/restaurant-api-typescript/adr",
+    "vault-template/20-projetos/restaurant-api-typescript/PRD.md",
+    "vault-template/20-projetos/restaurant-api-typescript"
+  ]
 }
