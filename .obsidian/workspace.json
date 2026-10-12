@@ -11,10 +11,14 @@
             "id": "55b0d72abc0bc959",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vault-template/20-projetos/clinica-drLucas/PRD-v8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "PRD-v8"
             }
           }
         ]
@@ -183,8 +187,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6a15be8231d736bb",
+  "active": "55b0d72abc0bc959",
   "lastOpenFiles": [
+    "vault-template/20-projetos/clinica-drLucas/domain-model/domain-model.md",
+    "vault-template/20-projetos/clinica-drLucas/domain-model",
+    "vault-template/20-projetos/clinica-drLucas/PRD-v8.md",
+    "vault-template/20-projetos/clinica-drLucas/adr",
+    "vault-template/20-projetos/clinica-drLucas",
     "vault-template/20-projetos/website_development-/PRD.md",
     "vault-template/20-projetos/website_development-/adr",
     "vault-template/20-projetos/website_development-",
@@ -196,10 +205,7 @@
     "vault-template/20-projetos/vault-finance",
     "vault-template/20-projetos/sneakers-store-stock-api/PRD.md",
     "vault-template/20-projetos/sneakers-store-stock-api/adr",
-    "vault-template/20-projetos/sneakers-store-stock-api",
     "vault-template/20-projetos/senai/PRD.md",
-    "vault-template/20-projetos/senai/adr",
-    "vault-template/20-projetos/senai",
     "vault-template/20-projetos/PROVA_DUPLA_SOMATIVA/PRD.md",
     "vault-template/20-projetos/projeto_hardware/PRD.md",
     "vault-template/20-projetos/Projeto_grupo5/PRD.md",
