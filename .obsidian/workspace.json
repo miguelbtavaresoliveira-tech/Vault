@@ -189,6 +189,8 @@
   },
   "active": "55b0d72abc0bc959",
   "lastOpenFiles": [
+    "vault-template/20-projetos/clinica-drLucas/tecnical-decisions/tecnical-decisions-v1.md",
+    "vault-template/20-projetos/clinica-drLucas/tecnical-decisions",
     "vault-template/20-projetos/clinica-drLucas/domain-model/domain-model.md",
     "vault-template/20-projetos/clinica-drLucas/domain-model",
     "vault-template/20-projetos/clinica-drLucas/PRD-v8.md",
@@ -204,7 +206,6 @@
     "vault-template/20-projetos/vault-finance/adr",
     "vault-template/20-projetos/vault-finance",
     "vault-template/20-projetos/sneakers-store-stock-api/PRD.md",
-    "vault-template/20-projetos/sneakers-store-stock-api/adr",
     "vault-template/20-projetos/senai/PRD.md",
     "vault-template/20-projetos/PROVA_DUPLA_SOMATIVA/PRD.md",
     "vault-template/20-projetos/projeto_hardware/PRD.md",
